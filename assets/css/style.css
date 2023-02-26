@@ -1,0 +1,61 @@
+#nav-area{
+    background-color: rgb(255, 196, 0);
+}
+
+#nav-area .icon{
+    margin-top: 10px;
+}
+
+#nav-area .icon a{
+    text-decoration: none;
+
+}
+
+#nav-area .icon i{
+    font-size: 30px;
+    color: rgb(255, 255, 255);    
+}
+
+#nav-area .icon sup{
+    font-size: 15px;
+    color: white;
+    top: -1.5em;
+    
+    
+}
+
+
+#basket h1{
+    text-align:center ;
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+tbody img{
+    width: 150px;
+    height: 150px;
+}
+
+.icon{
+    cursor: pointer;
+}
+
+.table .icon{
+    margin-left: 100px;
+}
+
+
+.items:hover{
+    cursor: pointer;
+    font-size: large;
+    color: rgb(255, 0, 0);
+    transition: all 0.5s;
+}
+
+
+#nav-area .icon i:hover{
+
+    color: darkblue;
+    transition: all 0.5s;
+
+}
